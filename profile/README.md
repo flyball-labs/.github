@@ -1,6 +1,6 @@
 # Flyball Labs
 
-We're an open source project specializing in building future-proof controls development tools for the embedded hardware industry.
+We're an open source project specializing in building future-proof tools for the hardware engineering. Right now the primary focus is on embedded controls and control systems.
 
 ## What are control systems?
 
